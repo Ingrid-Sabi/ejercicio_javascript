@@ -1,4 +1,4 @@
 "use strict"
 
-let usuario="Ingrid"
+let usuario="Ingrid";
 console.log("Bienvenido(a) sra", usuario);
